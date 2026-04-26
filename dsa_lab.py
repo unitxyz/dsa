@@ -31,9 +31,9 @@
 
 Використання:
   python dsa_lab.py genkeys
-  python dsa_lab.py sign-str   "текст"
+  python dsa_lab.py sign-str "текст"
   python dsa_lab.py verify-str "текст"
-  python dsa_lab.py sign-file   <шлях до файлу>
+  python dsa_lab.py sign-file <шлях до файлу>
   python dsa_lab.py verify-file <шлях до файлу>
 """
 
